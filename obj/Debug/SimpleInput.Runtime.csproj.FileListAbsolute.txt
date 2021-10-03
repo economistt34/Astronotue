@@ -1,0 +1,2 @@
+/Users/ermancekicioglu/Desktop/Unity Games/2021howToProperlyDASHlightOFF/obj/Debug/SimpleInput.Runtime.csproj.AssemblyReference.cache
+/Users/ermancekicioglu/Desktop/Unity Games/2021howToProperlyDASHlightOFF/obj/Debug/SimpleInput.Runtime.csproj.CoreCompileInputs.cache
