@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{9d65350a-b08b-6fed-7513-8ed8d2a13ac9}</ProjectGuid>
+    <ProjectGuid>{69523587-7bc5-5b50-f620-b287a92914d3}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>SimpleInput.Editor</AssemblyName>
@@ -273,19 +273,19 @@
         <HintPath>/Applications/Unity/Hub/Editor/2020.3.9f1/2020.3.18f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
-        <HintPath>/Users/ermancekicioglu/Desktop/Unity Games/Astronot/Library/PackageCache/com.unity.collab-proxy@1.9.0/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+        <HintPath>/Users/ermancekicioglu/Desktop/Unity Games/tmp/Astronotue/Library/PackageCache/com.unity.collab-proxy@1.9.0/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Antlr3.Runtime">
-        <HintPath>/Users/ermancekicioglu/Desktop/Unity Games/Astronot/Library/PackageCache/com.unity.collab-proxy@1.9.0/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+        <HintPath>/Users/ermancekicioglu/Desktop/Unity Games/tmp/Astronotue/Library/PackageCache/com.unity.collab-proxy@1.9.0/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="log4netPlastic">
-        <HintPath>/Users/ermancekicioglu/Desktop/Unity Games/Astronot/Library/PackageCache/com.unity.collab-proxy@1.9.0/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
+        <HintPath>/Users/ermancekicioglu/Desktop/Unity Games/tmp/Astronotue/Library/PackageCache/com.unity.collab-proxy@1.9.0/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
     </Reference>
     <Reference Include="unityplastic">
-        <HintPath>/Users/ermancekicioglu/Desktop/Unity Games/Astronot/Library/PackageCache/com.unity.collab-proxy@1.9.0/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
+        <HintPath>/Users/ermancekicioglu/Desktop/Unity Games/tmp/Astronotue/Library/PackageCache/com.unity.collab-proxy@1.9.0/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>/Users/ermancekicioglu/Desktop/Unity Games/Astronot/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+        <HintPath>/Users/ermancekicioglu/Desktop/Unity Games/tmp/Astronotue/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
         <HintPath>/Applications/Unity/Hub/Editor/2020.3.9f1/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -636,21 +636,21 @@
         <HintPath>/Applications/Unity/Hub/Editor/2020.3.9f1/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/netstandard.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>/Users/ermancekicioglu/Desktop/Unity Games/Astronot/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>/Users/ermancekicioglu/Desktop/Unity Games/tmp/Astronotue/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>/Users/ermancekicioglu/Desktop/Unity Games/Astronot/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>/Users/ermancekicioglu/Desktop/Unity Games/tmp/Astronotue/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-        <HintPath>/Users/ermancekicioglu/Desktop/Unity Games/Astronot/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+        <HintPath>/Users/ermancekicioglu/Desktop/Unity Games/tmp/Astronotue/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-        <HintPath>/Users/ermancekicioglu/Desktop/Unity Games/Astronot/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+        <HintPath>/Users/ermancekicioglu/Desktop/Unity Games/tmp/Astronotue/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="SimpleInput.Runtime.csproj">
-      <Project>{5c69eb5d-655c-07bc-15d5-fbf42e379694}</Project>
+      <Project>{71c7b23e-d8b2-5c79-bfcd-0085b9e38e10}</Project>
       <Name>SimpleInput.Runtime</Name>
     </ProjectReference>
   </ItemGroup>
